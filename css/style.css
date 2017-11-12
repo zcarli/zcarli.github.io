@@ -1,0 +1,51 @@
+.green {
+		background-color:	#F0F8FF
+
+}
+.purple {
+	background-color:	#e6e6ff;
+}
+.card-block{
+	padding: 10px;
+	border:1px solid 	#E6E6FA;
+}
+
+.intro {
+	text-align:center;
+}
+.info {
+	text-align:center;
+}
+.header-bar{
+	background-color:#40E0D0;
+}
+.navbar-brand {color: black;}
+.nav-link {color:black;}
+.img-square{
+	width: 50px
+}
+
+{box-sizing: border-box;
+}
+.skills {
+		width 20%;
+		background-color: #ddd;
+}
+
+.skills {
+		text-align: right;
+		padding-right: 20px;
+		line-height: 30px;
+		color: black;
+}
+
+.html {width: 40% ;background-color: #008B8B;}
+.css {width: 40%; background-color: #40E0D0; }
+.excel {width: 80%; background-color: #66CDAA;} 
+.microsoft {width: 90%; background-color: #2E8B57;}
+
+/* Additional stuff for index.html page */
+.jumbotron {
+  background-image: url("https://i.pinimg.com/originals/c4/5a/bc/c45abcd5639c8880e24861f18d1fe121.jpg");
+  background-size: cover;
+  color: white;
